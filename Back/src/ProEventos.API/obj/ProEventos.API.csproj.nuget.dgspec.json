@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programas\\Visual Studio\\2019-community\\Shared\\NuGetPackages",

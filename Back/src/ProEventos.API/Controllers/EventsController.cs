@@ -12,9 +12,9 @@ namespace ProEventos.API.Controllers
 {
 	 [ApiController]
 	 [Route("api/[controller]")]
-	 public class EventController : DefaultController
+	 public class EventsController : DefaultController
 	 {
-		public EventController(DataContext dbContext) : base (dbContext) {}
+		public EventsController(DataContext dbContext) : base (dbContext) {}
 
 		[HttpGet]
 		public IEnumerable<Event> Get()

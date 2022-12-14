@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siWyG5vzQhtV9BNXqk3H82QqARLT9TlBxmvPBO73bBabhhM8wrRZ1g4/d7o1DQwqTKPCgZVyeoOP34WbhwTeHQ==",
+  "dgSpecHash": "w1D2T132fcXL/FdXD4cBDb2i/pqKJdnVDnETtlk/Sn21OWVWWyc4dL0s2CeZNNK/kETY5Y9J6nNtYI5UQC+N7Q==",
   "success": true,
-  "projectFilePath": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "F:\\Cursos\\AngularCsharp\\angular_e_csharp_leonardopiel\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leona\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
