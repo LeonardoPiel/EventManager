@@ -472,3 +472,11 @@ obj/
 /wwwroot/node_modules
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,csharp
+Front/ProEvents-App/src/app/events/events.component.html
+Front/ProEvents-App/src/app/app.component.html
+Back/src/ProEventos.API/obj/Debug/net5.0/ProEventos.API.pdb
+Back/src/ProEventos.API/obj/Debug/net5.0/ProEventos.API.dll
+Back/src/ProEventos.API/bin/Debug/net5.0/ProEventos.API.pdb
+Back/src/ProEventos.API/bin/Debug/net5.0/ProEventos.API.dll
+*.dll
+*.pdb
